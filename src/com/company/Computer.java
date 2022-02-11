@@ -7,4 +7,5 @@ public interface Computer {
     void switchOnOff();
 
 
+
 }
