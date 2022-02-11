@@ -15,7 +15,7 @@ public class MickieIntern implements Intern {
 
     @Override
     public void drink(String brandOfDrink) {
-        System.out.println(name+" is drinking " +brandOfDrink);
+        System.out.println(name + " is drinking " + brandOfDrink);
     }
 
     @Override
