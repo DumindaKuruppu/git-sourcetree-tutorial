@@ -3,8 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        InternsRecruiter mickie = new InternsRecruiter();
 
-//        Chnage done
+        mickie.internRecruiter();
     }
 }
